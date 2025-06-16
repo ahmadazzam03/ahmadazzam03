@@ -50,7 +50,7 @@ I enjoy crafting robust APIs, responsive UIs, and integrating clean code archite
   <a href="https://www.linkedin.com/in/ahmad-azzam-07b80131b/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:your-email@example.com">
+  <a href="mailto:ahmadwaleedazzam123@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
