@@ -1,50 +1,63 @@
-<h1 align="center">Hi there, I'm Ahmad Azzam 👋</h1>
+<h1 align="center">👋 Hello, I'm Ahmad Azzam</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=435&lines=ASP.NET+Full+Stack+Developer;C%23+%7C+ASP.NET+Core+%7C+EF+Core+%7C+REST+APIs;Clean+Code+%26+Modern+Web+Development" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=0AE6F0&center=true&vCenter=true&width=550&lines=Flutter+Developer+%7C+Cross-Platform+Apps;Android+%26+iOS+Specialist;Clean+Architecture+%7C+State+Management;Passionate+about+UI%2FUX+%26+Scalable+Apps" alt="Typing SVG" />
 </p>
 
 ---
 
-## 👨‍💻 About Me
+## 🚀 About Me
 
-I am a **Full Stack Developer** specializing in **ASP.NET Core** with a strong foundation in building scalable and secure web applications.  
-I enjoy crafting robust APIs, responsive UIs, and integrating clean code architecture.
+I'm a passionate **Flutter Developer** who builds beautiful, responsive, and high-performance cross-platform applications.  
+Focused on clean code, maintainable architecture, and delivering smooth user experiences.
 
-- 🔭 Currently working on enhancing backend architecture in .NET.
-- 🌱 Exploring design patterns, dependency injection, and advanced EF Core.
-- 💬 Ask me about: C#, ASP.NET Core, RESTful APIs, Entity Framework, SQL Server.
+- 🔭 Currently working on real-world Flutter apps using **Firebase**, **Hive**, and **state management tools** like **Bloc** and **Provider**.
+- 💡 Constantly learning best practices in **app architecture**, **UI/UX**, and **performance optimization**.
+- 💬 Ask me about: `Flutter`, `Dart`, `Firebase`, `REST APIs`, `Hive`, `Bloc`, `Riverpod`.
 
 ---
 
-## 🧰 Tech Stack
+## 🧠 Tech Stack
 
 <p align="center">
-  <img src="https://img.shields.io/badge/C%23-%23239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
-  <img src="https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=for-the-badge&logo=.net&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Entity%20Framework%20Core-512BD4?style=for-the-badge&logo=.net&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Bloc-3982C3?style=for-the-badge&logo=blazor&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Hive-F9A825?style=for-the-badge&logo=hive&logoColor=black"/>
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/>
+  <img src="https://img.shields.io/badge/REST%20API-5C2D91?style=for-the-badge&logo=protocols.io&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 </p>
 
 ---
 
-## 📈 GitHub Stats
+## 💼 Highlighted Projects
+
+| Project | Description |
+|--------|-------------|
+| 🟢 **Chat App** | Real-time messaging using **Firebase Auth**, **Cloud Firestore**, and **Push Notifications**. |
+| ☀️ **Weather App** | Live weather forecast app using **REST API**, elegant UI with animations and location-based data. |
+| 📰 **News App** | Responsive news reader with **REST API**, category filtering, and offline caching with **Hive**. |
+| 🛍️ **Store App** | Full-featured e-commerce app with product list, cart, favorites, and **clean MVVM structure**. |
+| 📝 **Note App** | CRUD-based note-taking app using **Hive** for local storage, with search and tagging. |
+| 🚗 **Car Center App** *(Graduation Project)* | Automotive app that allows clients to book services, browse car parts, and manage appointments. Built with **Flutter + Firebase**. |
+
+---
+
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ahmadazzam03&show_icons=true&theme=tokyonight&hide_border=true" alt="Ahmad's GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ahmadazzam03&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats"/>
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=ahmadazzam03&theme=tokyonight&hide_border=true" alt="Ahmad's GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=ahmadazzam03&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmadazzam03&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
 </p>
 
 ---
 
-## 📫 Connect With Me
+## 🌐 Connect With Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/ahmad-azzam-07b80131b/" target="_blank">
@@ -55,7 +68,4 @@ I enjoy crafting robust APIs, responsive UIs, and integrating clean code archite
   </a>
 </p>
 
----
-
-> 💡 *“Code is like humor. When you have to explain it, it’s bad.” – Cory House*
 
